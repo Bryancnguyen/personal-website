@@ -1,0 +1,613 @@
+@media only screen and (max-width: 1200px) {
+    .bryan-text-box {
+        width: 100%;
+        padding: 0 1%
+    }
+    .row {
+        padding: 0 2%
+    }
+    .me img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .btns {
+        float: right;
+        width: 369px
+    }
+    .main-nav {
+        font-size: 90%
+    }
+    .tech
+    {
+        margin-top: -10%;
+    }
+}
+@media only screen and (max-width: 1023px) {
+    body {
+        font-size: 18px
+    }
+    section {
+        padding: 60px 0
+    }
+    .long-copy {
+        width: 80%;
+        margin-left: 10%
+    }
+    .app-screen {
+        width: 50%
+    }
+    .icon-small {
+        width: 17px;
+        margin-right: 5px
+    }
+    .contact-form {
+        width: 90%
+    }
+    .bryan-text-box {
+        width: 100%;
+        padding: 0 1%;
+        margin-top: 60px;
+    }
+    .btn:link,
+    .btn:visited,
+    input[type=submit] {
+        display: inline-block;
+        padding: 10px 30px;
+        font-weight: 300;
+        text-decoration: none;
+        border-radius: 200px;
+        -webkit-transition: background-color 0.2s, border 0.2s, color .2s;
+        transition: background-color 0.2s, border 0.2s, color .2s
+    }
+    .me img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .btn-resume{
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .btns {
+        float: right;
+        width: 369px
+    }
+    .main-nav {
+        display: none
+    }
+    .mobile-nav-icon {
+        display: inline-block;
+        margin-top: -5px
+    }
+    .main-nav {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    .main-nav li {
+        display: block;
+        float: left;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%
+    }
+    .sticky .main-nav {
+        margin-top: 10px
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 10px 0
+    }
+    .sticky .mobile-nav-icon {
+        margin-top: 10px
+    }
+    .sticky .mobile-nav-icon i {
+        color: #555
+    }
+    nav {
+        background-color: rgba(255, 255, 255, 0)
+    }
+    .mobile-nav-icon i {
+        font-size: 300%;
+        color: #fff
+    }
+}
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 30px
+    }
+    .ellie-mae-summ2 {
+        font-size: 20px;
+        margin-left: 10px;
+        padding-right: 5px;
+        margin-bottom: 60px
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%
+    }
+    section {
+        padding: 30px 0
+    }
+    .row,
+    .bryan-text-box {
+        width: 100%;
+        padding: 0 1%
+    }
+    .bryan-text-box
+    {
+        width: 80%;
+        margin-left: 50px;
+        margin-top: 70px;
+    }
+    .col {
+        width: 100%;
+        margin: 0 0 4%
+    }
+    .main-nav {
+        display: none
+    }
+    .mobile-nav-icon {
+        display: inline-block;
+        margin-top: -5px
+    }
+    .main-nav {
+        float: left;
+        margin-top: 30px;
+        margin-left: 25px
+    }
+    .main-nav li {
+        display: block
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%
+    }
+    .sticky .main-nav {
+        margin-top: 10px
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 10px 0
+    }
+    .sticky .mobile-nav-icon {
+        margin-top: 10px
+    }
+    .sticky .mobile-nav-icon i {
+        color: #555
+    }
+    h1,
+    .last-name {
+        font-size: 180%;
+        float: right
+    }
+    .major-descp {
+        font-size: 80%
+    }
+    h2 {
+        font-size: 150%
+    }
+    .long-copy {
+        width: 100%;
+        margin-left: 0;
+        font-size: 70%
+    }
+    .app-screen {
+        width: 40%
+    }
+    .btn:link,
+    .btn:visited,
+    input[type=submit] {
+        display: inline-block;
+        padding: 10px 30px;
+        font-weight: 300;
+        text-decoration: none;
+        border-radius: 200px;
+        -webkit-transition: background-color 0.2s, border 0.2s, color .2s;
+        transition: background-color 0.2s, border 0.2s, color .2s
+    }
+    .btn-full:link,
+    .btn-full:visited,
+    input[type=submit] {
+        background-color: #2980b9;
+        border: 1px solid #2980b9;
+        color: #fff;
+        margin-left: 374px
+    }
+    .btn {
+        font-size: 20px
+    }
+    .ellie-mae {
+        padding-top: 160px;
+        margin-top: -100px;
+        margin-bottom: -60px
+    }
+    .ellie-logo img {
+        height: 90px;
+        border-radius: 1%;
+        vertical-align: middle;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px
+    }
+    .ellie-mae .ellie-mae-title {
+        font-size: 90%;
+        color: #2980b9;
+        font-weight: 400;
+        padding-left: 10px
+    }
+    .ellie-mae-title .summ2 {
+        font-size: 20%
+    }
+    .software img {
+        height: 90px;
+        margin-left: 25%;
+        margin-top: 50px;
+        border-radius: 10%
+    }
+    .ellie-summ {
+        margin-top: 40px;
+        margin-left: -250px;
+        padding-right: 30px;
+        font-size: 90%
+    }
+    .ellie-link {
+        margin-left: 35%;
+        margin-top: 20px;
+        font-size: 25px
+    }
+    .software {
+        width: 50%;
+        margin: 0 0 4%
+    }
+    .tech img {
+        height: 50px;
+        margin-left: 5%
+    }
+    .prog-title {
+        font-size: 100%;
+        margin-top: 50px;
+        padding-left: 10px;
+        color: #2980b9;
+        font-weight: 400;
+        border-bottom: 1px solid #2980b9;
+        -webkit-transition: border-bottom 0.2s, color .2s;
+        transition: border-bottom 0.2s, color .2s
+    }
+    .tech {
+        display:block;
+        margin-right: auto;
+        margin-top: -80px;
+    }
+    .section-education img {
+        border-radius: 5%;
+        height: 100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 120px;
+        margin-bottom: 0;
+        vertical-align: middle
+        
+    }
+    .tech-1 {
+        width: 170px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .tech-2 {
+        width: 130px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .tech-3 {
+        width: 300px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .educ-sum {
+        text-align: justify;
+        font-size: 90%;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    .GPA {
+        margin-top: 40px;
+        font-size: 120%;
+        text-align: center;
+        color: rgba(85, 219, 100, 0.92)
+    }
+    .Grad {
+        margin-top: 40px;
+        font-size: 120%;
+        text-align: center;
+        color: #d64b4b
+    }
+    .proj-box {
+        margin-top: 60px;
+        text-align: center
+    }
+    .proj-box:first-child {
+        text-align: right;
+        padding-right: 3%
+    }
+    .proj-img {
+        width: 40%;
+        margin-left: 10px
+    }
+    .num {
+        color: #2980b9;
+        font-size: 120%;
+        height: 54px;
+        width: 54px;
+        border: 2px solid #2980b9;
+        border-radius: 50%;
+        display: inline-block;
+        text-align: center;
+        margin-right: 23px;
+        float: left;
+        padding: 1px;
+        margin-top: -120px
+    }
+    .num p {
+        text-align: left
+    }
+    .btn-submit:link,
+    .btn-submit:visited,
+    input[type=submit] {
+        background-color: #2980b9;
+        border: 1px solid #2980b9;
+        color: #fff;
+        margin-left: 1px
+    }
+    nav {
+        background-color: rgba(255, 255, 255, 0)
+    }
+    .me img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .btns {
+        float: right;
+        width: 738px
+    }
+    .main-nav {
+        font-size: 75%
+    }
+    .mobile-nav-icon i {
+        font-size: 200%;
+        color: #fff
+    }
+    header {
+        background-size: 700px 810px;
+        background-position: center;
+        height: 100vh;
+        background-attachment: fixed
+    }
+}
+@media only screen and (max-width: 480px) {
+    html,
+  body{
+    width:100%;
+    overflow-x:hidden;
+  }
+    .bryan-text-box {
+        margin-left: -20px
+    }
+    .contact-form {
+        width: 100%
+    }
+    body {
+        font-size: 30px
+    }
+    .ellie-mae-summ2 {
+        font-size: 20px;
+        margin-left: 10px;
+        padding-right: 5px;
+        margin-bottom: 60px
+    }
+    section {
+        padding: 30px 0
+    }
+    .row,
+    .bryan-text-box {
+        width: 100%;
+        padding: 0 1%
+    }
+    .col {
+        width: 100%;
+        margin: 0 0 4%
+    }
+    .btn:link,
+    .btn:visited,
+    input[type=submit] {
+        display: inline-block;
+        padding: 10px 30px;
+        font-weight: 300;
+        text-decoration: none;
+        border-radius: 200px;
+        -webkit-transition: background-color 0.2s, border 0.2s, color .2s;
+        transition: background-color 0.2s, border 0.2s, color .2s
+    }
+    .btn-full:link,
+    .btn-full:visited,
+    input[type=submit] {
+        background-color: #2980b9;
+        border: 1px solid #2980b9;
+        color: #fff;
+        margin-left: 90px
+    }
+    .ellie-mae {
+        padding-top: 160px;
+        margin-top: -100px;
+        margin-bottom: -60px
+    }
+    .ellie-logo img {
+        height: 50px;
+        border-radius: 1%;
+        vertical-align: middle;
+        margin-left: 15%;
+        margin-top: 60px
+    }
+    .ellie-mae .ellie-mae-title {
+        font-size: 90%;
+        color: #2980b9;
+        font-weight: 400;
+        padding-left: 10px
+    }
+    .ellie-mae-title .summ2 {
+        font-size: 20%
+    }
+    .software img {
+        height: 60px;
+        margin-left: 25%;
+        margin-top: 50px;
+        border-radius: 10%
+    }
+    .ellie-summ {
+        margin-top: 30px;
+        margin-left: -10px;
+        padding-right: 30px;
+        font-size: 80%
+    }
+    .ellie-link {
+        margin-left: 15%;
+        margin-top: 20px;
+        font-size: 25px
+    }
+    .software {
+        width: 50%;
+        margin: 0 0 4%
+    }
+    .tech-1 {
+        width: 140px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .tech-2 {
+        width: 100px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .tech-3 {
+        width: 210px;
+        margin-top: -100px;
+        margin-left: 10px
+    }
+    .educ-sum {
+        text-align: center;
+        font-size: 80%;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    .GPA {
+        margin-top: 40px;
+        font-size: 95%;
+        text-align: center;
+        color: rgba(85, 219, 100, 0.92)
+    }
+    .Grad {
+        margin-top: 40px;
+        font-size: 95%;
+        text-align: center;
+        color: #d64b4b
+    }
+    .tech {
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: -70px;
+    }
+    .section-education img {
+        border-radius: 5%;
+        height: 70px;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        vertical-align: middle
+        
+    }
+    nav {
+        background-color: rgba(255, 255, 255, 0);
+    }
+    .main-nav {
+        margin-left: -10%;
+        font-size: 40%;
+        width: 50%;
+    }
+    
+    .btn-submit:link,
+    .btn-submit:visited,
+    input[type=submit] {
+        background-color: #2980b9;
+        border: 1px solid #2980b9;
+        color: #fff;
+        margin-left: 150px
+    }
+    .me img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+    .btns {
+        float: right;
+        width: 360px;
+    }
+    h1,
+    .last-name {
+        font-size: 140%;
+        float: right;
+        margin-bottom: 0%;
+    }
+    .major-descp {
+        font-size: 53%
+    }
+    header {
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
+    background-attachment:scroll;
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/BryanNguyenVertical.jpg); 
+    }
+    footer {
+        background-color: #333;
+        padding: 50px;
+        font-size: 100%
+    }
+   .btn
+    {
+        font-size: 40%;
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .bryan-text-box
+    {
+        width: 65%;
+        margin-left: 16%;
+    }
+    .resume_pic
+{
+  margin-top: 50px;
+  height: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #2a2a2a;
+}
+}
